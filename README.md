@@ -9,7 +9,7 @@ The results are illustrated in a set of [Jupyter](https://jupyter.org/) notebook
 In this work, a Reservoir Computing-based model is develop to propagate quantum wavefunctions with time. Since such wavefunctions are complex-valued high-dimensional arrays the reservoir computing formalism needs to be extended to cope with complex-valued data.  Furthermore,  we propose a multi-step learning strategy that avoids overfitting the training data. 
 
 
-<p align="center"><img src="https://github.com/laiadc/RC_quantum/blob/main/figures/MultiRC.png"  align=middle width=600pt />
+<p align="center"><img src="https://github.com/laiadc/RC_quantum/tree/main/figures/MultiRC.PNG"  align=middle width=600pt />
 </p>
 <p align="center">
 <em>Architecture of multi-step training of the reservoir computing model </em>
