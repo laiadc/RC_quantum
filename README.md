@@ -21,6 +21,8 @@ We illustrate the performance of our adapted reservoir computingmethod by applic
 
 All the notebooks used for this work can be found inside the folder **notebooks** .
 
+**Remark**: Some of the training data could not be uploaded because it exceeded the maximum size allowed by GitHub. The notebooks provide the code to obtain such training data. 
+
 ### [RC harmonic Oscillator 1D.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC%20Harmonic%20Oscillator%201D.ipynb)
 Application of the adapted Reservoir Computing model to solve the 1D harmonic oscillator.
 
