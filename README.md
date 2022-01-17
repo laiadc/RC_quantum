@@ -9,8 +9,26 @@ The results are illustrated in a set of [Jupyter](https://jupyter.org/) notebook
 In this work, a Reservoir Computing-based model is develop to propagate quantum wavefunctions with time. Since such wavefunctions are complex-valued high-dimensional arrays the reservoir computing formalism needs to be extended to cope with complex-valued data.  Furthermore,  we propose a multi-step learning strategy that avoids overfitting the training data. 
 
 
-<p align="center"><img src="https://github.com/laiadc/RC_quantum/tree/main/figures/MultiRC.PNG"  align=middle width=600pt />
+<p align="center"><img src="https://github.com/laiadc/RC_quantum/blob/main/figures/MultiRC.PNG"  align=middle width=600pt />
 </p>
 <p align="center">
 <em>Architecture of multi-step training of the reservoir computing model </em>
 </p>
+
+We illustrate the performance of our adapted reservoir computingmethod by application to four standard problems in molecular vibrational dynamics: the 1D harmonic oscillator, Morse Hamiltonian, polynomial potential and 2D harmonic oscillator.
+
+## Notebooks
+
+All the notebooks used for this work can be found inside the folder **notebooks** .
+
+### [RC harmonic Oscillator 1D.ipynb]("https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC harmonic Oscillator 1D.ipynb")
+Application of the adapted Reservoir Computing model to solve the 1D harmonic oscillator.
+
+### [RC Morse 1D.ipynb]("https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC Morse 1D.ipynb")
+Application of the adapted Reservoir Computing model to solve the 1D Morse Hamiltonian.
+
+### [RC polynomial 1D.ipynb]("https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC Random Potential 1D.ipynb")
+Application of the adapted Reservoir Computing model to solve the 1D polynomial potential.
+
+### [RC harmonic Oscillator 2D.ipynb]("https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC harmonic Oscillator 2D.ipynb")
+Application of the adapted Reservoir Computing model to solve the 2D harmonic oscillator.
