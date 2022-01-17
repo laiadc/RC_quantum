@@ -21,14 +21,17 @@ We illustrate the performance of our adapted reservoir computingmethod by applic
 
 All the notebooks used for this work can be found inside the folder **notebooks** .
 
-### [RC harmonic Oscillator 1D.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC harmonic Oscillator 1D.ipynb)
+### [RC harmonic Oscillator 1D.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC%20Harmonic%20Oscillator%201D.ipynb)
 Application of the adapted Reservoir Computing model to solve the 1D harmonic oscillator.
 
-### [RC Morse 1D.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC Morse 1D.ipynb)
+### [RC Morse 1D.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC%20Morse%201D.ipynb)
 Application of the adapted Reservoir Computing model to solve the 1D Morse Hamiltonian.
 
-### [RC polynomial 1D.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC Random Potential 1D.ipynb)
+### [RC polynomial 1D.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC%20Random%20potential%201D.ipynb)
 Application of the adapted Reservoir Computing model to solve the 1D polynomial potential.
 
-### [RC harmonic Oscillator 2D.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC harmonic Oscillator 2D.ipynb)
+### [RC harmonic Oscillator 2D.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/RC%20Harmonic%20Oscillator%202D.ipynb)
 Application of the adapted Reservoir Computing model to solve the 2D harmonic oscillator.
+
+### [Figures.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/Figures.ipynb)
+This notebook summarizes the results of the paper and provides interactive plots created with *plotly* library.
