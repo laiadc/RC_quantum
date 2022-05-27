@@ -37,3 +37,15 @@ Application of the adapted Reservoir Computing model to solve the 2D harmonic os
 
 ### [Figures.ipynb](https://github.com/laiadc/RC_quantum/blob/main/notebooks/Figures.ipynb)
 This notebook summarizes the results of the paper and provides interactive plots created with *plotly* library.
+
+### BibTex reference format for citation for the Code
+```
+@misc{RCQuantum,
+title={Adapting reservoir computing to solve the Schrödinger equation},
+url={https://github.com/laiadc/RC_quantum/},
+note={Adaptation of Reservoir Computing to integrate the time-dependent Schrödinger equation, propagating an initial wavefunction in time.},
+author={L. Domingo and J. Borondo and F. Borondo},
+  year={2022}
+}
+
+
